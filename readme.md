@@ -52,7 +52,7 @@ Installation
 
  8. Run the assets:install command to install the css and js files
 
-        ./app/console assets:install --symlink web
+        ./app/console assets:install web
 
 Usage
 -----
